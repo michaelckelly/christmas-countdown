@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "async": "0.9.x",
+    "body-parser": "1.9.x",
+    "cron": "1.0.3",
+    "envvar": "1.0.x",
+    "express": "3.5.x",
+    "moment": "2.8.x",
+    "mongoose": "3.8.x",
+    "nodemailer": "1.3.x",
+    "ramda": "0.7.x",
+    "time": "^0.11.0",
+    "twilio": "1.7.x"
+  }
+}
